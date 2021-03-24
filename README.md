@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Mark and I am currently finishing my BScHons Computing at UNISA.  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://user-images.githubusercontent.com/24228731/112367346-72b69d00-8ce2-11eb-8ecc-06d90452176f.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
