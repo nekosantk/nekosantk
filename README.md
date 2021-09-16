@@ -3,7 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nekosantk)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nekosantk/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:louw.mark@yahoo.com)
+[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:louw.mark@yahoo.com)
 
 Welcome to my Github page! I am Mark and I am currently finishing my BScHons Computing 
 
@@ -11,15 +11,9 @@ Welcome to my Github page! I am Mark and I am currently finishing my BScHons Com
 
 
 #### 🌱 Things I am currently working on: 
-- Finishing my BscHonours Degree 
-- Udemy Courses (ASP.NET + Angular)
+- Finishing my BscHons Computing Science 
+- Building ReactJS Native Portfolio
 - Grinding HackerRank on the daily
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 3 hours a day
-- Exercising 4 days a week
-- Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
 <p>
