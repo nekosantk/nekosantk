@@ -12,7 +12,7 @@ Welcome to my Github page! I am Mark and I am currently finishing my BScHons Com
 
 #### 🌱 Things I am currently working on: 
 - Finishing my BscHons Computing Science 
-- Building ReactJS Native Portfolio
+- Building React Native + Firebase Apps
 - Grinding HackerRank on the daily
 
 #### :computer: Programming languages and tools: 
