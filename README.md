@@ -13,7 +13,7 @@ Welcome to my Github page. My name's Mark and I love all things tech 💻
 #### 🌱 Things I am currently working on: 
 - Finishing my BscHons Computing 
 - Building React Native + Firebase Apps
-- Grinding HackerRank on the daily
+- Breaking into the Japanese tech market
 
 #### :computer: Programming languages and tools: 
 <p>
