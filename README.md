@@ -1,5 +1,5 @@
 ### Welcome traveller 👋 
-### Stay a while and listen
+### Quote: Stay a while and listen
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nekosantk)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nekosantk/)
@@ -11,9 +11,9 @@ Welcome to my Github page. My name's Mark and I love all things tech 💻
 
 
 #### 🌱 Things I am currently working on: 
-- Finishing short courses on AWS
-- Building React Native + Firebase Apps
-- Contributing to open source projects
+- Finishing BscHons Computing @ UNISA
+- Building machine vision applications
+- Playing an inordinate amount of Dota2
 
 #### :computer: Programming languages and tools: 
 <p>
